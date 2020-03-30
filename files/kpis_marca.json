@@ -1,0 +1,2604 @@
+[
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "If_I_had_the_opportunity_I_would_purchase_the_products_and_services",
+    "X2010": 51.2416,
+    "X2011": 57.9881,
+    "X2012": 52.832
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "If_I_had_the_opportunity_I_would_purchase_the_products_and_services",
+    "X2010": 49.108,
+    "X2011": 51.734,
+    "X2012": 49.8815
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "If_I_had_the_opportunity_I_would_purchase_the_products_and_services",
+    "X2010": 58.2505,
+    "X2011": 60.0505,
+    "X2012": 55.971
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "If_I_had_the_opportunity_I_would_purchase_the_products_and_services",
+    "X2010": 55.1765,
+    "X2011": 59.2974,
+    "X2012": 54.1031
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "If_I_had_the_opportunity_I_would_purchase_the_products_and_services",
+    "X2010": 54.631,
+    "X2011": 62.913,
+    "X2012": 56.8392
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "I_would_recommend_the_products_services_of_Company",
+    "X2010": 55.7636,
+    "X2011": 65.4875,
+    "X2012": 58.9681
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "I_would_recommend_the_products_services_of_Company",
+    "X2010": 53.4011,
+    "X2011": 57.3865,
+    "X2012": 53.5621
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "I_would_recommend_the_products_services_of_Company",
+    "X2010": 62.363,
+    "X2011": 64.4174,
+    "X2012": 59.4394
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "I_would_recommend_the_products_services_of_Company",
+    "X2010": 57.6322,
+    "X2011": 64.4417,
+    "X2012": 57.4813
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "I_would_recommend_the_products_services_of_Company",
+    "X2010": 58.0466,
+    "X2011": 65.6019,
+    "X2012": 58.9441
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Cuota_de_Mercado",
+    "X2010": 0.2335,
+    "X2011": 0.2688,
+    "X2012": 0.2899
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Cuota_de_Mercado",
+    "X2010": 0.1693,
+    "X2011": 0.1865,
+    "X2012": 0.1792
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Cuota_de_Mercado",
+    "X2010": 0.1378,
+    "X2011": 0.1546,
+    "X2012": 0.1489
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Cuota_de_Mercado",
+    "X2010": 0.0621,
+    "X2011": 0.0705,
+    "X2012": 0.0699
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Cuota_de_Mercado",
+    "X2010": 0.0638,
+    "X2011": 0.0678,
+    "X2012": 0.0633
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Fidelidad",
+    "X2010": 76.9657,
+    "X2011": 81.1239,
+    "X2012": 66.4005
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Fidelidad",
+    "X2010": 74.1702,
+    "X2011": 79.8115,
+    "X2012": 79.5617
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Fidelidad",
+    "X2010": 76.0636,
+    "X2011": 77.5783,
+    "X2012": 70.8272
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Fidelidad",
+    "X2010": 75.6175,
+    "X2011": 78.7743,
+    "X2012": 77.1355
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Fidelidad",
+    "X2010": 73.5754,
+    "X2011": 73.6836,
+    "X2012": 80.6016
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Imagen",
+    "X2011": 84.0979,
+    "X2012": 74.7191
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Imagen",
+    "X2011": 82.722,
+    "X2012": 78.2347
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Imagen",
+    "X2011": 86.1935,
+    "X2012": 78.9775
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Imagen",
+    "X2011": 85.2409,
+    "X2012": 82.5426
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Imagen",
+    "X2011": 84.6377,
+    "X2012": 79.3637
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Total",
+    "X2010": 9415884.6793,
+    "X2011": 141555.6049,
+    "X2012": 12688773.9443
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Total",
+    "X2010": 1672651.9399,
+    "X2011": 5593698.0717,
+    "X2012": 6128144.2325
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Total",
+    "X2010": 2326009.8879,
+    "X2011": 2368529.2654,
+    "X2012": 5048145.6484
+  },
+  {
+    "MARCA": "Marca_4",
+    "VARIABLE": "Inversión_Publicitaria_Total",
+    "X2010": 2326009.8879,
+    "X2011": 2368529.2654,
+    "X2012": 5048145.6484
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Total",
+    "X2010": 4945757.3485,
+    "X2011": 5290555.1387,
+    "X2012": 508693.0262
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Total",
+    "X2010": 9456719.9227,
+    "X2011": 10689246.8678,
+    "X2012": 9891989.7498
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Notoriedad_Publicitaria_Total",
+    "X2010": 0.0008,
+    "X2011": 0.0006,
+    "X2012": 0.001
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Notoriedad_Publicitaria_Total",
+    "X2010": 0.0003,
+    "X2011": 0.0002,
+    "X2012": 0.0004
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Notoriedad_Publicitaria_Total",
+    "X2010": 0.0003,
+    "X2011": 0.0003,
+    "X2012": 0.0004
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Notoriedad_Publicitaria_Total",
+    "X2010": 0.0179,
+    "X2011": 0.0181,
+    "X2012": 0.0169
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Notoriedad_Publicitaria_Total",
+    "X2010": 0.0015,
+    "X2011": 0.0014,
+    "X2012": 0.0018
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Precio",
+    "X2011": 82.5738,
+    "X2012": 69.2031
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Precio",
+    "X2011": 80.637,
+    "X2012": 73.0752
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Precio",
+    "X2011": 81.5578,
+    "X2012": 74.2735
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Precio",
+    "X2011": 77.2185,
+    "X2012": 75.3727
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Precio",
+    "X2011": 75.3558,
+    "X2012": 72.9167
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Recuerdo_Patrocinio_Espontáneo",
+    "X2012": 0.0001
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Recuerdo_Patrocinio_Espontáneo",
+    "X2011": 0.0001,
+    "X2012": 0.0001
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Recuerdo_Patrocinio_Espontáneo",
+    "X2011": 0.0012,
+    "X2012": 0.0007
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Recuerdo_Patrocinio_Espontáneo",
+    "X2011": 0.008,
+    "X2012": 0.0081
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Recuerdo_Patrocinio_Espontáneo",
+    "X2011": 0.0003,
+    "X2012": 0.0004
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Recuerdo_Patrocinio_Sugerido",
+    "X2012": 0.0003
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Recuerdo_Patrocinio_Sugerido",
+    "X2011": 0.0002,
+    "X2012": 0.0001
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Recuerdo_Patrocinio_Sugerido",
+    "X2011": 0.0162,
+    "X2012": 0.0104
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Recuerdo_Patrocinio_Sugerido",
+    "X2011": 0.0333,
+    "X2012": 0.029
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Recuerdo_Patrocinio_Sugerido",
+    "X2011": 0.001,
+    "X2012": 0.0013
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Servicio",
+    "X2011": 84.9446,
+    "X2012": 72.4315
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Servicio",
+    "X2011": 83.7804,
+    "X2012": 79.7895
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Servicio",
+    "X2011": 85.6219,
+    "X2012": 76.9968
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Servicio",
+    "X2011": 82.9019,
+    "X2012": 80.7006
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Servicio",
+    "X2011": 84.3731,
+    "X2012": 80.7798
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Prescripción",
+    "X2010": 75.6968,
+    "X2011": 82.6373,
+    "X2012": 67.678
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Prescripción",
+    "X2010": 77.164,
+    "X2011": 76.9857,
+    "X2012": 76.6304
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Prescripción",
+    "X2010": 78.6212,
+    "X2011": 81.8436,
+    "X2012": 70.1142
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Prescripción",
+    "X2010": 75.2706,
+    "X2011": 81.9282,
+    "X2012": 78.8388
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Prescripción",
+    "X2010": 76.2619,
+    "X2011": 76.9539,
+    "X2012": 78.1258
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Conocimiento_Espontáneo_1º",
+    "X2010": 0.2379,
+    "X2011": 0.2286,
+    "X2012": 0.2228
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Conocimiento_Espontáneo_1º",
+    "X2010": 0.0506,
+    "X2011": 0.055,
+    "X2012": 0.0535
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Conocimiento_Espontáneo_1º",
+    "X2010": 0.0208,
+    "X2011": 0.0127,
+    "X2012": 0.0079
+  },
+  {
+    "MARCA": "Marca_4",
+    "VARIABLE": "Conocimiento_Espontáneo_1º",
+    "X2010": 0.0278,
+    "X2011": 0.0169,
+    "X2012": 0.0149
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Conocimiento_Espontáneo_1º",
+    "X2010": 0.0525,
+    "X2011": 0.0942,
+    "X2012": 0.0772
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Conocimiento_Espontáneo_1º",
+    "X2010": 0.2835,
+    "X2011": 0.3249,
+    "X2012": 0.3615
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Conocimiento_Espontáneo_Resto",
+    "X2010": 0.1794,
+    "X2011": 0.2064,
+    "X2012": 0.2753
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Conocimiento_Espontáneo_Resto",
+    "X2010": 0.1467,
+    "X2011": 0.1545,
+    "X2012": 0.1594
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Conocimiento_Espontáneo_Resto",
+    "X2010": 0.0555,
+    "X2011": 0.054,
+    "X2012": 0.0446
+  },
+  {
+    "MARCA": "Marca_4",
+    "VARIABLE": "Conocimiento_Espontáneo_Resto",
+    "X2010": 0.0743,
+    "X2011": 0.0804,
+    "X2012": 0.0812
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Conocimiento_Espontáneo_Resto",
+    "X2010": 0.1408,
+    "X2011": 0.2011,
+    "X2012": 0.1585
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Conocimiento_Espontáneo_Resto",
+    "X2010": 0.2895,
+    "X2011": 0.3217,
+    "X2012": 0.3199
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Conocimiento_Espontáneo_Total",
+    "X2010": 0.4164,
+    "X2011": 0.435,
+    "X2012": 0.4991
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Conocimiento_Espontáneo_Total",
+    "X2010": 0.1973,
+    "X2011": 0.2085,
+    "X2012": 0.2129
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Conocimiento_Espontáneo_Total",
+    "X2010": 0.0763,
+    "X2011": 0.0667,
+    "X2012": 0.0525
+  },
+  {
+    "MARCA": "Marca_4",
+    "VARIABLE": "Conocimiento_Espontáneo_Total",
+    "X2010": 0.0991,
+    "X2011": 0.0963,
+    "X2012": 0.0961
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Conocimiento_Espontáneo_Total",
+    "X2010": 0.1933,
+    "X2011": 0.2953,
+    "X2012": 0.2357
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Conocimiento_Espontáneo_Total",
+    "X2010": 0.573,
+    "X2011": 0.6456,
+    "X2012": 0.6813
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Conocimiento_Sugerido",
+    "X2010": 0.7623,
+    "X2011": 0.8393,
+    "X2012": 0.8487
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Conocimiento_Sugerido",
+    "X2010": 0.5006,
+    "X2011": 0.5662,
+    "X2012": 0.5892
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Conocimiento_Sugerido",
+    "X2010": 0.3053,
+    "X2011": 0.3916,
+    "X2012": 0.3535
+  },
+  {
+    "MARCA": "Marca_4",
+    "VARIABLE": "Conocimiento_Sugerido",
+    "X2010": 0.4134,
+    "X2011": 0.5006,
+    "X2012": 0.4694
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Conocimiento_Sugerido",
+    "X2010": 0.6463,
+    "X2011": 0.7631,
+    "X2012": 0.7249
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Conocimiento_Sugerido",
+    "X2010": 0.8743,
+    "X2011": 0.997,
+    "X2012": 0.9547
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Publico_General",
+    "X2010": 59.3798,
+    "X2011": 62.1262,
+    "X2012": 57.3391
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Publico_General",
+    "X2010": 59.6772,
+    "X2011": 61.9145,
+    "X2012": 54.5662
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Publico_General",
+    "X2010": 56.9015,
+    "X2011": 68.6881,
+    "X2012": 58.7256
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Publico_General",
+    "X2010": 58.6859,
+    "X2011": 64.3487,
+    "X2012": 58.9236
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Publico_General",
+    "X2010": 62.2546,
+    "X2011": 64.5604,
+    "X2012": 56.1507
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Adapts_quickly_to_change_Publico_General",
+    "X2010": 63.1468,
+    "X2011": 67.9472,
+    "X2012": 62.0926
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Adapts_quickly_to_change_Publico_General",
+    "X2010": 59.1815,
+    "X2011": 63.9254,
+    "X2012": 57.8343
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Adapts_quickly_to_change_Publico_General",
+    "X2010": 59.578,
+    "X2011": 67.7355,
+    "X2012": 60.7062
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Adapts_quickly_to_change_Publico_General",
+    "X2010": 63.7416,
+    "X2011": 70.8048,
+    "X2012": 64.9645
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Adapts_quickly_to_change_Publico_General",
+    "X2010": 63.5433,
+    "X2011": 68.7939,
+    "X2012": 63.281
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Behaves_ethically_Publico_General",
+    "X2010": 62.9485,
+    "X2011": 65.513,
+    "X2012": 61.6965
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Behaves_ethically_Publico_General",
+    "X2010": 59.8754,
+    "X2011": 63.5021,
+    "X2012": 60.5081
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Behaves_ethically_Publico_General",
+    "X2010": 59.8754,
+    "X2011": 70.1698,
+    "X2012": 63.182
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Behaves_ethically_Publico_General",
+    "X2010": 61.7589,
+    "X2011": 65.6188,
+    "X2012": 61.9936
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Behaves_ethically_Publico_General",
+    "X2010": 64.9311,
+    "X2011": 66.4655,
+    "X2012": 60.7062
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Publico_General",
+    "X2010": 60.7676,
+    "X2011": 64.5604,
+    "X2012": 60.4091
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Publico_General",
+    "X2010": 59.9746,
+    "X2011": 63.6079,
+    "X2012": 58.2304
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Publico_General",
+    "X2010": 58.8841,
+    "X2011": 64.4546,
+    "X2012": 61.1023
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Publico_General",
+    "X2010": 62.9485,
+    "X2011": 71.0165,
+    "X2012": 61.8946
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Publico_General",
+    "X2010": 61.2633,
+    "X2011": 64.9838,
+    "X2012": 60.3101
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Publico_General",
+    "X2010": 60.0737,
+    "X2011": 60.8561,
+    "X2012": 59.5178
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Publico_General",
+    "X2010": 58.3885,
+    "X2011": 62.3379,
+    "X2012": 57.042
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Publico_General",
+    "X2010": 59.6772,
+    "X2011": 68.8997,
+    "X2012": 58.7256
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Publico_General",
+    "X2010": 61.3624,
+    "X2011": 66.2538,
+    "X2012": 60.211
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Publico_General",
+    "X2010": 60.9659,
+    "X2011": 65.4071,
+    "X2012": 57.9333
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Publico_General",
+    "X2010": 65.0303,
+    "X2011": 70.0639,
+    "X2012": 65.1626
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Publico_General",
+    "X2010": 62.2546,
+    "X2011": 66.0421,
+    "X2012": 61.9936
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Publico_General",
+    "X2010": 61.2633,
+    "X2011": 69.4289,
+    "X2012": 64.9645
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Publico_General",
+    "X2010": 66.8146,
+    "X2011": 74.8266,
+    "X2012": 68.3316
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Publico_General",
+    "X2010": 66.5172,
+    "X2011": 69.8523,
+    "X2012": 65.9548
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_a_positive_influence_on_society_Publico_General",
+    "X2010": 61.3624,
+    "X2011": 66.2538,
+    "X2012": 61.5975
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_a_positive_influence_on_society_Publico_General",
+    "X2010": 59.578,
+    "X2011": 65.6188,
+    "X2012": 60.3101
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_a_positive_influence_on_society_Publico_General",
+    "X2010": 59.2806,
+    "X2011": 69.9581,
+    "X2012": 61.8946
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_a_positive_influence_on_society_Publico_General",
+    "X2010": 61.8581,
+    "X2011": 67.8414,
+    "X2012": 61.8946
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_a_positive_influence_on_society_Publico_General",
+    "X2010": 63.6424,
+    "X2011": 65.9363,
+    "X2012": 61.9936
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Publico_General",
+    "X2010": 61.3624,
+    "X2011": 63.7137,
+    "X2012": 60.4091
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Publico_General",
+    "X2010": 59.3798,
+    "X2011": 61.1736,
+    "X2012": 57.2401
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Publico_General",
+    "X2010": 58.5867,
+    "X2011": 63.6079,
+    "X2012": 58.3294
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Publico_General",
+    "X2010": 64.3364,
+    "X2011": 73.5565,
+    "X2012": 63.182
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Publico_General",
+    "X2010": 61.8581,
+    "X2011": 65.0896,
+    "X2012": 58.9236
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_excellent_managers_Publico_General",
+    "X2010": 58.785,
+    "X2011": 61.4912,
+    "X2012": 56.5469
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_excellent_managers_Publico_General",
+    "X2010": 58.0911,
+    "X2011": 57.8927,
+    "X2012": 53.9721
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_excellent_managers_Publico_General",
+    "X2010": 57.6945,
+    "X2011": 58.2102,
+    "X2012": 56.2498
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_excellent_managers_Publico_General",
+    "X2010": 60.8667,
+    "X2011": 65.9363,
+    "X2012": 58.0323
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_excellent_managers_Publico_General",
+    "X2010": 59.9746,
+    "X2011": 62.7612,
+    "X2012": 53.9721
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_a_profitable_company_Publico_General",
+    "X2010": 66.4181,
+    "X2011": 70.5931,
+    "X2012": 68.1335
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_a_profitable_company_Publico_General",
+    "X2010": 62.7502,
+    "X2011": 68.3705,
+    "X2012": 63.281
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_a_profitable_company_Publico_General",
+    "X2010": 61.5607,
+    "X2011": 70.9106,
+    "X2012": 66.45
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_a_profitable_company_Publico_General",
+    "X2010": 70.4825,
+    "X2011": 77.2608,
+    "X2012": 71.1045
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_a_profitable_company_Publico_General",
+    "X2010": 67.3103,
+    "X2011": 72.0748,
+    "X2012": 67.6384
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_a_well_organized_company_Publico_General",
+    "X2010": 64.832,
+    "X2011": 71.0165,
+    "X2012": 65.6577
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_a_well_organized_company_Publico_General",
+    "X2010": 62.3537,
+    "X2011": 66.5713,
+    "X2012": 63.7761
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_a_well_organized_company_Publico_General",
+    "X2010": 61.8581,
+    "X2011": 71.0165,
+    "X2012": 65.2616
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_a_well_organized_company_Publico_General",
+    "X2010": 68.599,
+    "X2011": 73.3449,
+    "X2012": 68.6287
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_a_well_organized_company_Publico_General",
+    "X2010": 67.112,
+    "X2011": 72.1807,
+    "X2012": 65.9548
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_an_innovative_company_Publico_General",
+    "X2010": 62.6511,
+    "X2011": 66.783,
+    "X2012": 61.1023
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_an_innovative_company_Publico_General",
+    "X2010": 58.6859,
+    "X2011": 62.867,
+    "X2012": 57.042
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_an_innovative_company_Publico_General",
+    "X2010": 59.578,
+    "X2011": 68.1589,
+    "X2012": 61.3004
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_an_innovative_company_Publico_General",
+    "X2010": 63.7416,
+    "X2011": 68.7939,
+    "X2012": 65.5587
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_an_innovative_company_Publico_General",
+    "X2010": 64.5346,
+    "X2011": 68.2647,
+    "X2012": 62.8849
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Publico_General",
+    "X2010": 60.8667,
+    "X2011": 65.9363,
+    "X2012": 60.9042
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Publico_General",
+    "X2010": 58.8841,
+    "X2011": 63.2904,
+    "X2012": 57.1411
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Publico_General",
+    "X2010": 59.4789,
+    "X2011": 67.1005,
+    "X2012": 61.4984
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Publico_General",
+    "X2010": 60.9659,
+    "X2011": 66.6772,
+    "X2012": 61.6965
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Publico_General",
+    "X2010": 64.039,
+    "X2011": 65.8305,
+    "X2012": 60.013
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Publico_General",
+    "X2010": 60.3711,
+    "X2011": 65.4071,
+    "X2012": 58.7256
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Publico_General",
+    "X2010": 56.9015,
+    "X2011": 59.6919,
+    "X2012": 54.2691
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Publico_General",
+    "X2010": 58.5867,
+    "X2011": 65.6188,
+    "X2012": 59.6168
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Publico_General",
+    "X2010": 62.0563,
+    "X2011": 66.4655,
+    "X2012": 61.9936
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Publico_General",
+    "X2010": 61.9572,
+    "X2011": 66.4655,
+    "X2012": 60.3101
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Publico_General",
+    "X2010": 59.578,
+    "X2011": 62.6554,
+    "X2012": 58.7256
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Publico_General",
+    "X2010": 57.7937,
+    "X2011": 59.0569,
+    "X2012": 56.6459
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Publico_General",
+    "X2010": 58.1902,
+    "X2011": 66.3596,
+    "X2012": 59.5178
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Publico_General",
+    "X2010": 59.578,
+    "X2011": 66.2538,
+    "X2012": 60.9042
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Publico_General",
+    "X2010": 61.5607,
+    "X2011": 64.2429,
+    "X2012": 57.9333
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Publico_General",
+    "X2010": 63.7416,
+    "X2011": 71.4398,
+    "X2012": 65.5587
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Publico_General",
+    "X2010": 61.8581,
+    "X2011": 67.1005,
+    "X2012": 62.7858
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Publico_General",
+    "X2010": 61.8581,
+    "X2011": 74.5091,
+    "X2012": 67.6384
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Publico_General",
+    "X2010": 63.2459,
+    "X2011": 71.969,
+    "X2012": 64.6674
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Publico_General",
+    "X2010": 66.4181,
+    "X2011": 70.8048,
+    "X2012": 66.45
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Meets_customer_needs_Publico_General",
+    "X2010": 64.039,
+    "X2011": 69.5347,
+    "X2012": 64.7665
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Meets_customer_needs_Publico_General",
+    "X2010": 59.9746,
+    "X2011": 65.9363,
+    "X2012": 62.5878
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Meets_customer_needs_Publico_General",
+    "X2010": 61.3624,
+    "X2011": 71.8632,
+    "X2012": 65.9548
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Meets_customer_needs_Publico_General",
+    "X2010": 63.5433,
+    "X2011": 73.0274,
+    "X2012": 65.1626
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Meets_customer_needs_Publico_General",
+    "X2010": 67.112,
+    "X2011": 71.1223,
+    "X2012": 66.351
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Publico_General",
+    "X2010": 59.1815,
+    "X2011": 59.6919,
+    "X2012": 56.943
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Publico_General",
+    "X2010": 56.7032,
+    "X2011": 60.962,
+    "X2012": 55.4575
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Publico_General",
+    "X2010": 58.0911,
+    "X2011": 66.3596,
+    "X2012": 58.0323
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Publico_General",
+    "X2010": 59.7763,
+    "X2011": 65.4071,
+    "X2012": 57.9333
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Publico_General",
+    "X2010": 58.4876,
+    "X2011": 61.4912,
+    "X2012": 54.5662
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Offers_high_quality_products_and_services_Publico_General",
+    "X2010": 65.0303,
+    "X2011": 70.5931,
+    "X2012": 66.351
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Offers_high_quality_products_and_services_Publico_General",
+    "X2010": 60.9659,
+    "X2011": 66.0421,
+    "X2012": 63.281
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Offers_high_quality_products_and_services_Publico_General",
+    "X2010": 62.1555,
+    "X2011": 70.9106,
+    "X2012": 66.45
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Offers_high_quality_products_and_services_Publico_General",
+    "X2010": 66.5172,
+    "X2011": 75.1441,
+    "X2012": 68.4306
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Offers_high_quality_products_and_services_Publico_General",
+    "X2010": 67.7068,
+    "X2011": 71.5456,
+    "X2012": 67.5393
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Publico_General",
+    "X2010": 62.0563,
+    "X2011": 66.8888,
+    "X2012": 62.6868
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Publico_General",
+    "X2010": 59.578,
+    "X2011": 62.0203,
+    "X2012": 60.3101
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Publico_General",
+    "X2010": 59.4789,
+    "X2011": 67.6297,
+    "X2012": 63.38
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Publico_General",
+    "X2010": 61.1641,
+    "X2011": 67.1005,
+    "X2012": 59.9139
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Publico_General",
+    "X2010": 63.5433,
+    "X2011": 64.6663,
+    "X2012": 60.7062
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Rewards_its_employees_fairly_Publico_General",
+    "X2010": 57.3971,
+    "X2011": 60.4328,
+    "X2012": 55.0614
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Rewards_its_employees_fairly_Publico_General",
+    "X2010": 56.4058,
+    "X2011": 59.6919,
+    "X2012": 52.6846
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Rewards_its_employees_fairly_Publico_General",
+    "X2010": 56.3067,
+    "X2011": 62.3379,
+    "X2012": 58.0323
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Rewards_its_employees_fairly_Publico_General",
+    "X2010": 58.0911,
+    "X2011": 65.0896,
+    "X2012": 56.2498
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Rewards_its_employees_fairly_Publico_General",
+    "X2010": 58.1902,
+    "X2011": 60.327,
+    "X2012": 52.1895
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Publico_General",
+    "X2010": 66.4181,
+    "X2011": 70.3814,
+    "X2012": 68.7277
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Publico_General",
+    "X2010": 62.8494,
+    "X2011": 69.2172,
+    "X2012": 65.5587
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Publico_General",
+    "X2010": 63.1468,
+    "X2011": 73.3449,
+    "X2012": 67.6384
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Publico_General",
+    "X2010": 68.6981,
+    "X2011": 75.5674,
+    "X2012": 69.619
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Publico_General",
+    "X2010": 68.6981,
+    "X2011": 72.0748,
+    "X2012": 68.3316
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Stands_behind_its_products_and_services_Publico_General",
+    "X2010": 64.2372,
+    "X2011": 69.9581,
+    "X2012": 64.9645
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Stands_behind_its_products_and_services_Publico_General",
+    "X2010": 60.6685,
+    "X2011": 64.7721,
+    "X2012": 62.0926
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Stands_behind_its_products_and_services_Publico_General",
+    "X2010": 61.2633,
+    "X2011": 70.699,
+    "X2012": 65.2616
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Stands_behind_its_products_and_services_Publico_General",
+    "X2010": 64.7329,
+    "X2011": 73.239,
+    "X2012": 66.6481
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Stands_behind_its_products_and_services_Publico_General",
+    "X2010": 66.2198,
+    "X2011": 70.8048,
+    "X2012": 66.6481
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Supports_good_causes_Publico_General",
+    "X2010": 59.7763,
+    "X2011": 64.1371,
+    "X2012": 58.4285
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Supports_good_causes_Publico_General",
+    "X2010": 58.6859,
+    "X2011": 61.8087,
+    "X2012": 56.5469
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Supports_good_causes_Publico_General",
+    "X2010": 59.7763,
+    "X2011": 71.5456,
+    "X2012": 61.3004
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Supports_good_causes_Publico_General",
+    "X2010": 62.7502,
+    "X2011": 67.418,
+    "X2012": 62.0926
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Supports_good_causes_Publico_General",
+    "X2010": 63.1468,
+    "X2011": 66.4655,
+    "X2012": 59.5178
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Publico_General",
+    "X2010": 61.7589,
+    "X2011": 65.1954,
+    "X2012": 62.7858
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Publico_General",
+    "X2010": 58.9832,
+    "X2011": 61.8087,
+    "X2012": 59.8149
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Publico_General",
+    "X2010": 59.2806,
+    "X2011": 67.6297,
+    "X2012": 63.182
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Publico_General",
+    "X2010": 62.8494,
+    "X2011": 69.9581,
+    "X2012": 63.38
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Publico_General",
+    "X2010": 63.5433,
+    "X2011": 66.9947,
+    "X2012": 63.4791
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Clientes",
+    "X2010": 62.7502,
+    "X2011": 70.8048,
+    "X2012": 64.7665
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Clientes",
+    "X2010": 70.9782,
+    "X2011": 69.2172,
+    "X2012": 55.8536
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Clientes",
+    "X2010": 69.4912,
+    "X2011": 77.5783,
+    "X2012": 60.7062
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Clientes",
+    "X2010": 68.599,
+    "X2011": 71.0165,
+    "X2012": 68.2326
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Acts_responsibly_to_protect_the_environment_Clientes",
+    "X2010": 69.7886,
+    "X2011": 71.7573,
+    "X2012": 63.5781
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Adapts_quickly_to_change_Clientes",
+    "X2010": 67.2112,
+    "X2011": 75.4616,
+    "X2012": 69.3219
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Adapts_quickly_to_change_Clientes",
+    "X2010": 65.8233,
+    "X2011": 69.9581,
+    "X2012": 61.7955
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Adapts_quickly_to_change_Clientes",
+    "X2010": 70.6808,
+    "X2011": 75.1441,
+    "X2012": 64.2713
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Adapts_quickly_to_change_Clientes",
+    "X2010": 72.4651,
+    "X2011": 75.4616,
+    "X2012": 70.0151
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Adapts_quickly_to_change_Clientes",
+    "X2010": 74.2495,
+    "X2011": 73.0274,
+    "X2012": 72.9861
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Behaves_ethically_Clientes",
+    "X2010": 70.086,
+    "X2011": 75.885,
+    "X2012": 70.3122
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Behaves_ethically_Clientes",
+    "X2010": 70.9782,
+    "X2011": 74.9324,
+    "X2012": 68.3316
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Behaves_ethically_Clientes",
+    "X2010": 73.9521,
+    "X2011": 78.8484,
+    "X2012": 70.7083
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Behaves_ethically_Clientes",
+    "X2010": 71.4738,
+    "X2011": 74.6149,
+    "X2012": 69.9161
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Behaves_ethically_Clientes",
+    "X2010": 73.1591,
+    "X2011": 73.8741,
+    "X2012": 70.4112
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Clientes",
+    "X2010": 68.0042,
+    "X2011": 70.5931,
+    "X2012": 68.4306
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Clientes",
+    "X2010": 71.8703,
+    "X2011": 67.418,
+    "X2012": 61.3994
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Clientes",
+    "X2010": 67.9051,
+    "X2011": 71.334,
+    "X2012": 55.5566
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Clientes",
+    "X2010": 71.8703,
+    "X2011": 75.3558,
+    "X2012": 66.9452
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Delivers_financial_results_that_are_better_than_expected_Clientes",
+    "X2010": 68.6981,
+    "X2011": 70.9106,
+    "X2012": 72.1938
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Clientes",
+    "X2010": 63.2459,
+    "X2011": 67.7355,
+    "X2012": 67.3413
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Clientes",
+    "X2010": 72.2669,
+    "X2011": 69.2172,
+    "X2012": 61.1023
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Clientes",
+    "X2010": 70.9782,
+    "X2011": 72.1807,
+    "X2012": 57.1411
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Clientes",
+    "X2010": 68.2025,
+    "X2011": 70.8048,
+    "X2012": 68.9258
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Demonstrates_concern_for_the_health_and_well_being_of_its_employees_Clientes",
+    "X2010": 73.853,
+    "X2011": 74.9324,
+    "X2012": 68.3316
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Clientes",
+    "X2010": 69.6895,
+    "X2011": 79.9068,
+    "X2012": 74.3725
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Clientes",
+    "X2010": 73.6547,
+    "X2011": 72.4982,
+    "X2012": 67.5393
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Clientes",
+    "X2010": 72.4651,
+    "X2011": 77.2608,
+    "X2012": 64.8655
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Clientes",
+    "X2010": 74.7452,
+    "X2011": 79.8009,
+    "X2012": 73.4812
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_a_clear_vision_for_its_future_Clientes",
+    "X2010": 76.133,
+    "X2011": 74.5091,
+    "X2012": 76.1551
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_a_positive_influence_on_society_Clientes",
+    "X2010": 69.0947,
+    "X2011": 77.2608,
+    "X2012": 69.3219
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_a_positive_influence_on_society_Clientes",
+    "X2010": 72.4651,
+    "X2011": 73.1332,
+    "X2012": 65.0636
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_a_positive_influence_on_society_Clientes",
+    "X2010": 72.6634,
+    "X2011": 78.3192,
+    "X2012": 68.5297
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_a_positive_influence_on_society_Clientes",
+    "X2010": 70.1851,
+    "X2011": 74.4032,
+    "X2012": 69.1238
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_a_positive_influence_on_society_Clientes",
+    "X2010": 74.646,
+    "X2011": 70.2756,
+    "X2012": 70.8074
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Clientes",
+    "X2010": 65.5259,
+    "X2011": 73.7682,
+    "X2012": 68.6287
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Clientes",
+    "X2010": 69.1938,
+    "X2011": 70.699,
+    "X2012": 60.9042
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Clientes",
+    "X2010": 68.8964,
+    "X2011": 70.9106,
+    "X2012": 60.5081
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Clientes",
+    "X2010": 69.9868,
+    "X2011": 79.9068,
+    "X2012": 69.619
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_a_strong_and_appealing_leader_Clientes",
+    "X2010": 71.9695,
+    "X2011": 71.2281,
+    "X2012": 72.5899
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Has_excellent_managers_Clientes",
+    "X2010": 63.0476,
+    "X2011": 72.3923,
+    "X2012": 63.182
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Has_excellent_managers_Clientes",
+    "X2010": 70.1851,
+    "X2011": 66.8888,
+    "X2012": 56.0517
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Has_excellent_managers_Clientes",
+    "X2010": 66.5172,
+    "X2011": 70.9106,
+    "X2012": 57.4381
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Has_excellent_managers_Clientes",
+    "X2010": 66.8146,
+    "X2011": 70.3814,
+    "X2012": 65.8558
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Has_excellent_managers_Clientes",
+    "X2010": 65.9225,
+    "X2011": 66.5713,
+    "X2012": 65.7568
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_a_profitable_company_Clientes",
+    "X2010": 75.7365,
+    "X2011": 77.4725,
+    "X2012": 75.2638
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_a_profitable_company_Clientes",
+    "X2010": 76.133,
+    "X2011": 75.1441,
+    "X2012": 68.1335
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_a_profitable_company_Clientes",
+    "X2010": 72.7625,
+    "X2011": 76.8375,
+    "X2012": 60.4091
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_a_profitable_company_Clientes",
+    "X2010": 75.8356,
+    "X2011": 80.4359,
+    "X2012": 74.9667
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_a_profitable_company_Clientes",
+    "X2010": 74.646,
+    "X2011": 77.8959,
+    "X2012": 78.2347
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_a_well_organized_company_Clientes",
+    "X2010": 73.9521,
+    "X2011": 79.6951,
+    "X2012": 72.3919
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_a_well_organized_company_Clientes",
+    "X2010": 69.2929,
+    "X2011": 75.2499,
+    "X2012": 70.2132
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_a_well_organized_company_Clientes",
+    "X2010": 74.2495,
+    "X2011": 79.5892,
+    "X2012": 71.2035
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_a_well_organized_company_Clientes",
+    "X2010": 74.5469,
+    "X2011": 78.7425,
+    "X2012": 74.4715
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_a_well_organized_company_Clientes",
+    "X2010": 75.8356,
+    "X2011": 80.3301,
+    "X2012": 74.6696
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_an_innovative_company_Clientes",
+    "X2010": 70.1851,
+    "X2011": 72.7099,
+    "X2012": 68.5297
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_an_innovative_company_Clientes",
+    "X2010": 66.8146,
+    "X2011": 68.053,
+    "X2012": 62.3897
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_an_innovative_company_Clientes",
+    "X2010": 70.4825,
+    "X2011": 76.3083,
+    "X2012": 67.7374
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_an_innovative_company_Clientes",
+    "X2010": 71.6721,
+    "X2011": 75.3558,
+    "X2012": 72.0948
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_an_innovative_company_Clientes",
+    "X2010": 73.5556,
+    "X2011": 73.8741,
+    "X2012": 72.5899
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Clientes",
+    "X2010": 68.599,
+    "X2011": 76.2025,
+    "X2012": 69.1238
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Clientes",
+    "X2010": 65.1294,
+    "X2011": 68.5822,
+    "X2012": 62.0926
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Clientes",
+    "X2010": 71.1764,
+    "X2011": 72.8157,
+    "X2012": 62.0926
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Clientes",
+    "X2010": 71.8703,
+    "X2011": 73.1332,
+    "X2012": 69.3219
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_fair_in_the_way_it_does_business_Clientes",
+    "X2010": 75.5382,
+    "X2011": 72.7099,
+    "X2012": 68.8267
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Clientes",
+    "X2010": 66.4181,
+    "X2011": 72.8157,
+    "X2012": 65.4597
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Clientes",
+    "X2010": 65.9225,
+    "X2011": 66.0421,
+    "X2012": 60.8052
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Clientes",
+    "X2010": 63.7416,
+    "X2011": 71.0165,
+    "X2012": 58.6265
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Clientes",
+    "X2010": 70.5816,
+    "X2011": 70.3814,
+    "X2012": 69.718
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_generally_the_first_company_to_go_to_market_with_new_products_and_services_Clientes",
+    "X2010": 70.1851,
+    "X2011": 71.334,
+    "X2012": 69.2229
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Clientes",
+    "X2010": 66.1207,
+    "X2011": 70.1698,
+    "X2012": 66.1529
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Clientes",
+    "X2010": 69.4912,
+    "X2011": 70.3814,
+    "X2012": 62.9839
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Clientes",
+    "X2010": 72.0686,
+    "X2011": 74.5091,
+    "X2012": 65.4597
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Clientes",
+    "X2010": 69.9868,
+    "X2011": 73.239,
+    "X2012": 67.8364
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Is_open_and_transparent_about_the_way_the_company_operates_Clientes",
+    "X2010": 68.3016,
+    "X2011": 69.2172,
+    "X2012": 69.0248
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Clientes",
+    "X2010": 71.6721,
+    "X2011": 81.8118,
+    "X2012": 73.8773
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Clientes",
+    "X2010": 70.2842,
+    "X2011": 77.6842,
+    "X2012": 68.5297
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Clientes",
+    "X2010": 74.4478,
+    "X2011": 79.4834,
+    "X2012": 68.8267
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Clientes",
+    "X2010": 73.1591,
+    "X2011": 77.3667,
+    "X2012": 70.5103
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "It_offers_quality_health_services_in_addition_to_your_policy_Clientes",
+    "X2010": 78.1156,
+    "X2011": 77.0492,
+    "X2012": 78.3337
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Meets_customer_needs_Clientes",
+    "X2010": 72.6634,
+    "X2011": 79.3776,
+    "X2012": 71.5006
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Meets_customer_needs_Clientes",
+    "X2010": 71.9695,
+    "X2011": 76.3083,
+    "X2012": 69.52
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Meets_customer_needs_Clientes",
+    "X2010": 76.0339,
+    "X2011": 81.1768,
+    "X2012": 73.4812
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Meets_customer_needs_Clientes",
+    "X2010": 73.6547,
+    "X2011": 81.6001,
+    "X2012": 72.887
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Meets_customer_needs_Clientes",
+    "X2010": 75.3399,
+    "X2011": 76.52,
+    "X2012": 75.858
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Clientes",
+    "X2010": 63.2459,
+    "X2011": 68.053,
+    "X2012": 64.7665
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Clientes",
+    "X2010": 72.0686,
+    "X2011": 68.2647,
+    "X2012": 61.0033
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Clientes",
+    "X2010": 66.4181,
+    "X2011": 66.9947,
+    "X2012": 52.0905
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Clientes",
+    "X2010": 68.9955,
+    "X2011": 68.053,
+    "X2012": 64.7665
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Offers_equal_opportunities_in_the_workplace_Clientes",
+    "X2010": 67.806,
+    "X2011": 69.2172,
+    "X2012": 67.2422
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Offers_high_quality_products_and_services_Clientes",
+    "X2010": 73.6547,
+    "X2011": 81.3885,
+    "X2012": 74.2735
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Offers_high_quality_products_and_services_Clientes",
+    "X2010": 72.5643,
+    "X2011": 77.3667,
+    "X2012": 70.0151
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Offers_high_quality_products_and_services_Clientes",
+    "X2010": 75.6373,
+    "X2011": 81.2826,
+    "X2012": 73.6793
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Offers_high_quality_products_and_services_Clientes",
+    "X2010": 75.1417,
+    "X2011": 80.9651,
+    "X2012": 74.6696
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Offers_high_quality_products_and_services_Clientes",
+    "X2010": 76.6287,
+    "X2011": 78.425,
+    "X2012": 77.5415
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Clientes",
+    "X2010": 71.2756,
+    "X2011": 76.8375,
+    "X2012": 70.7083
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Clientes",
+    "X2010": 71.3747,
+    "X2011": 74.6149,
+    "X2012": 68.1335
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Clientes",
+    "X2010": 74.646,
+    "X2011": 75.3558,
+    "X2012": 68.7277
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Clientes",
+    "X2010": 71.4738,
+    "X2011": 75.885,
+    "X2012": 68.8267
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Offers_products_and_services_that_are_a_good_value_for_the_money_Clientes",
+    "X2010": 72.6634,
+    "X2011": 70.9106,
+    "X2012": 68.0345
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Rewards_its_employees_fairly_Clientes",
+    "X2010": 61.6598,
+    "X2011": 69.2172,
+    "X2012": 61.9936
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Rewards_its_employees_fairly_Clientes",
+    "X2010": 65.8233,
+    "X2011": 66.148,
+    "X2012": 55.5566
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Rewards_its_employees_fairly_Clientes",
+    "X2010": 66.319,
+    "X2011": 67.9472,
+    "X2012": 50.9021
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Rewards_its_employees_fairly_Clientes",
+    "X2010": 64.6337,
+    "X2011": 70.3814,
+    "X2012": 62.1916
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Rewards_its_employees_fairly_Clientes",
+    "X2010": 70.1851,
+    "X2011": 71.1223,
+    "X2012": 58.6265
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Clientes",
+    "X2010": 72.5643,
+    "X2011": 78.7425,
+    "X2012": 76.9473
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Clientes",
+    "X2010": 72.6634,
+    "X2011": 75.9908,
+    "X2012": 70.7083
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Clientes",
+    "X2010": 74.5469,
+    "X2011": 79.1659,
+    "X2012": 67.5393
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Clientes",
+    "X2010": 76.5295,
+    "X2011": 78.425,
+    "X2012": 74.2735
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Shows_strong_prospects_for_future_growth_Clientes",
+    "X2010": 77.4217,
+    "X2011": 79.6951,
+    "X2012": 76.8483
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Stands_behind_its_products_and_services_Clientes",
+    "X2010": 72.1677,
+    "X2011": 79.9068,
+    "X2012": 73.2832
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Stands_behind_its_products_and_services_Clientes",
+    "X2010": 71.7712,
+    "X2011": 76.9433,
+    "X2012": 69.2229
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Stands_behind_its_products_and_services_Clientes",
+    "X2010": 75.1417,
+    "X2011": 80.4359,
+    "X2012": 73.4812
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Stands_behind_its_products_and_services_Clientes",
+    "X2010": 73.853,
+    "X2011": 79.5892,
+    "X2012": 74.7686
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Stands_behind_its_products_and_services_Clientes",
+    "X2010": 74.4478,
+    "X2011": 78.425,
+    "X2012": 76.056
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Supports_good_causes_Clientes",
+    "X2010": 62.1555,
+    "X2011": 70.9106,
+    "X2012": 64.1723
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Supports_good_causes_Clientes",
+    "X2010": 71.7712,
+    "X2011": 68.4764,
+    "X2012": 58.9236
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Supports_good_causes_Clientes",
+    "X2010": 71.2756,
+    "X2011": 76.9433,
+    "X2012": 64.1723
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Supports_good_causes_Clientes",
+    "X2010": 69.8877,
+    "X2011": 71.334,
+    "X2012": 70.4112
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Supports_good_causes_Clientes",
+    "X2010": 72.4651,
+    "X2011": 71.0165,
+    "X2012": 69.3219
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Clientes",
+    "X2010": 66.9138,
+    "X2011": 70.8048,
+    "X2012": 69.1238
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Clientes",
+    "X2010": 66.2198,
+    "X2011": 69.2172,
+    "X2012": 65.8558
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Clientes",
+    "X2010": 70.3834,
+    "X2011": 74.2974,
+    "X2012": 66.549
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Clientes",
+    "X2010": 71.0773,
+    "X2011": 75.1441,
+    "X2012": 70.2132
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "The_number_of_additional_health_care_coverage_of_health_policy_is_sufficient_Clientes",
+    "X2010": 71.8703,
+    "X2011": 73.0274,
+    "X2012": 71.3025
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_TV",
+    "X2010": 8534705.6657,
+    "X2012": 10841201.6733
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_TV",
+    "X2010": 11230.6089,
+    "X2011": 3401511.8951,
+    "X2012": 2771183.6162
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_TV",
+    "X2010": 296293.1831,
+    "X2011": 43227.9653,
+    "X2012": 1752741.8903
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_TV",
+    "X2010": 3663178.9842,
+    "X2011": 3364816.1745,
+    "X2012": 423.8539
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_TV",
+    "X2010": 7433101.7886,
+    "X2011": 7483115.9774,
+    "X2012": 6273008.1908
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Diarios",
+    "X2010": 109001.0447,
+    "X2011": 141343.9314,
+    "X2012": 597928.1391
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Diarios",
+    "X2010": 412049.049,
+    "X2011": 747735.6341,
+    "X2012": 754655.0553
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Diarios",
+    "X2010": 372948.607,
+    "X2011": 41341.9543,
+    "X2012": 1200250.2964
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Diarios",
+    "X2010": 49965.2557,
+    "X2011": 1144412.86,
+    "X2012": 304680.6506
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Diarios",
+    "X2010": 891403.4377,
+    "X2011": 957725.2865,
+    "X2012": 1089350.1087
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Radio",
+    "X2010": 338868.1846,
+    "X2012": 254334.1342
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Radio",
+    "X2010": 824365.7531,
+    "X2011": 1342892.765,
+    "X2012": 2218376.1125
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Radio"
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Radio",
+    "X2010": 43029.0238,
+    "X2011": 44579.5007
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Radio",
+    "X2010": 593117.7112,
+    "X2011": 1221708.6192,
+    "X2012": 1045464.3934
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Exterior",
+    "X2010": 185010.1311,
+    "X2012": 243644.697
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Exterior",
+    "X2010": 14791.4128,
+    "X2011": 637.1373,
+    "X2012": 94352.0595
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Exterior",
+    "X2010": 49093.8897,
+    "X2011": 989.5737,
+    "X2012": 751366.2262
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Exterior",
+    "X2010": 1352.1538
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Exterior",
+    "X2010": 470483.1097,
+    "X2011": 511601.1275,
+    "X2012": 761052.4765
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Revistas",
+    "X2010": 4729.5644
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Revistas",
+    "X2010": 27483.2202,
+    "X2011": 9391.9539,
+    "X2012": 18798.1191
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Revistas",
+    "X2010": 687878.5142,
+    "X2011": 846215.6787,
+    "X2012": 50132.6089
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Revistas",
+    "X2010": 245923.4709,
+    "X2011": 211216.3004,
+    "X2012": 9537.7033
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Revistas",
+    "X2010": 42940.7968,
+    "X2011": 132164.7094,
+    "X2012": 108474.9115
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Supl.Dom.",
+    "X2010": 1403.7022
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Supl.Dom.",
+    "X2012": 64990.273
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Supl.Dom.",
+    "X2010": 467516.1036,
+    "X2011": 871684.236,
+    "X2012": 84225.12
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Supl.Dom.",
+    "X2010": 521.4318,
+    "X2011": 11926.7442,
+    "X2012": 10821.1488
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Supl.Dom.",
+    "X2010": 1612.8697,
+    "X2011": 36039.5327,
+    "X2012": 1513.1981
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Cine"
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Cine"
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Cine"
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Cine"
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Cine",
+    "X2010": 9544.3819
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Inversión_Publicitaria_Internet",
+    "X2010": 60633.789,
+    "X2011": 211.6735,
+    "X2012": 751665.3007
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Inversión_Publicitaria_Internet",
+    "X2010": 226.0198,
+    "X2011": 1266.866,
+    "X2012": 36605.9253
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Inversión_Publicitaria_Internet",
+    "X2010": 10434.5829,
+    "X2011": 95024.4744,
+    "X2012": 209.9463
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Inversión_Publicitaria_Internet",
+    "X2010": 53216.7693,
+    "X2011": 5047.355
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Inversión_Publicitaria_Internet",
+    "X2011": 22535.8208,
+    "X2012": 463319.861
+  },
+  {
+    "MARCA": "Marca_1",
+    "VARIABLE": "Queries",
+    "X2010": 2202.7022,
+    "X2011": 2825.8414,
+    "X2012": 2562.9297
+  },
+  {
+    "MARCA": "Marca_2",
+    "VARIABLE": "Queries",
+    "X2010": 1088.464,
+    "X2011": 1369.5276,
+    "X2012": 1321.0774
+  },
+  {
+    "MARCA": "Marca_3",
+    "VARIABLE": "Queries",
+    "X2010": 795.0347,
+    "X2011": 864.6863,
+    "X2012": 818.9888
+  },
+  {
+    "MARCA": "Marca_5",
+    "VARIABLE": "Queries",
+    "X2010": 3064.155,
+    "X2011": 3471.4456,
+    "X2012": 3379.9379
+  },
+  {
+    "MARCA": "Marca_6",
+    "VARIABLE": "Queries",
+    "X2010": 1813.1153,
+    "X2011": 2410.9613,
+    "X2012": 2539.1622
+  }
+]

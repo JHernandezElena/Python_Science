@@ -1,0 +1,32 @@
+name: Practica_Python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2019.11.28=hecc5488_0
+  - certifi=2019.11.28=py37_0
+  - et_xmlfile=1.0.1=py_1001
+  - intel-openmp=2019.4=245
+  - jdcal=1.4.1=py_0
+  - libblas=3.8.0=14_mkl
+  - libcblas=3.8.0=14_mkl
+  - liblapack=3.8.0=14_mkl
+  - mkl=2019.4=245
+  - numpy=1.17.3=py37hc71023c_0
+  - openpyxl=3.0.2=py_0
+  - openssl=1.1.1d=hfa6e2cd_0
+  - pandas=0.25.3=py37he350917_0
+  - pip=19.3.1=py37_0
+  - python=3.7.3=h510b542_1
+  - python-dateutil=2.8.1=py_0
+  - pytz=2019.3=py_0
+  - setuptools=42.0.1=py37_0
+  - six=1.13.0=py37_0
+  - sqlite=3.30.1=hfa6e2cd_0
+  - unidecode=1.1.1=py_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_0
+  - wheel=0.33.6=py37_0
+  - wincertstore=0.2=py37_1003
+prefix: C:\Users\jhern\Anaconda3\envs\Practica_Python
+
